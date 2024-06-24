@@ -1,0 +1,45 @@
+Start Stop
+UI to Ignore a function.
+Sessions/rounds
+installation
+AI
+UI similer to Git PR.
+Share?
+
+
+Function name
+What function do
+Number of times Function executed.
+Path Suggestion
+
+in regression testing: most used
+in feature testing: changed func (based on git commits).
+
+
+global logging/analytics.
+side by side progress..
+
+
+
+
+
+
+value:
+Saves testers, because it keeps the records.
+Helps tester to know what done and what pending.
+
+
+
+raise missed code.
+
+
+AHA moments:
+Tester mentioned registration has been done,
+But when manager has checked the report and found registration has been tested but tester didn't test the resend verification code flow.
+
+
+
+
+Next 
+
+
